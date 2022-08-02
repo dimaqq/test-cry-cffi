@@ -1,0 +1,15 @@
+[[package]]
+name = "cryptography"
+version = "37.0.4"
+description = "cryptography is a package which provides cryptographic recipes and primitives to Python developers."
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "3a40f479f92887309d28a8fe9a6fee97d87c3508015659979554b2e1b9164dcd"
+
+[metadata.files]
+cryptography = []
